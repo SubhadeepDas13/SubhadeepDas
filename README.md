@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **Hello, I am Subhadeep Das. I am a B.Tech Electronics and Communication Engineering Graduate. I am here to connect with people, build my skills and showcase them. I’m seeking a new role and would appreciate your support. If you hear of any opportunities and I’d love to connect. #what I’m looking for: 💼 I’m looking for VoIP NOC Engineer , Cloud Engineer, and Network Security, Electronics component manufacturing roles. 🌎 I’m open to roles in Kolkata primarily, i am flexible to work in any state in India.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/subhadeep-das-51884614b OR dsubhadeep49@gmail.com
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> Tools:</h3> Arptel NetSense, Odine Orion, Denovo switch.
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeepdas13&show_icons=true&locale=en&layout=compact" alt="subhadeepdas13" /></p>
